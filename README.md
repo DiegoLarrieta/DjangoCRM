@@ -1,6 +1,7 @@
 # DJANGO CRM
 
-![Project Banner](DJANDOCRMMAIN)
+![Project Banner](./DJANGOCRMMAIN.png)
+
 
 ## Overview
 This project is a Customer Relationship Management (CRM) system built using Python, Django, and MySQL. The CRM allows businesses to efficiently manage their customer interactions, track sales, and streamline their operations.
